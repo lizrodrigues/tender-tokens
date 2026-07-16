@@ -38,7 +38,7 @@ Be able to define the following terms in this context:
 **Hands on:**
 Using Google Collab or your own computer, work through the Jupyter notebook provided by Tunstall et al. for chapter 5
 
-Experiment with prompts and decoding method, sampling parameters, temperature, and n-gram penalties to attempt to get as close as you think you can get to generating a Tender Buttons object poem.
+- Experiment with prompts and decoding method, sampling parameters, temperature, and n-gram penalties to attempt to get as close as you think you can get to generating a Tender Buttons object poem.
 
 **Write:**
 Reflect on how close it seemed like you got to a Steinian output. What, if anything, seemed similar, and what parameters do you think were most responsible for that? What, if anything, seemed impossible to reproduce, and why do you think the existing parameters failed to account for it?
