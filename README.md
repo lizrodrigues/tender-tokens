@@ -1,7 +1,7 @@
 # tender-tokens
 Supporting materials for an undergraduate computational literary studies unit.
 
-[Google docs version] (https://bit.ly/2026-tt-assignment)
+[Google docs version] https://bit.ly/2026-tt-assignment
 
 This sequence of activities and assignments was designed as an orientation for an undergraduate research team of 4 students to the critical practice of computational literary studies by prompting them to ask questions with and about large language model text generation by asking questions with and about Gertrude Stein’s poetics. 
 
