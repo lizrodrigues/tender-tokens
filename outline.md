@@ -14,7 +14,7 @@ The goal of this work is to
 **Write:**
 Select one object poem and model it in as many ways as you can think of: as parts of speech, as word frequencies, as a series of verbs describing transitions between ideas–any way of attempting to represent what you perceive to be the structure of the language that allows you to perceive a meaning  
 
-#### Class 2: 
+### Class 2: 
 **Read:**
 Stein’s essay “Portraits and Repetition”
 
